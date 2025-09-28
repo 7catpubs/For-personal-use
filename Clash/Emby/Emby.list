@@ -1,6 +1,5 @@
 # NAME: Emby
 # AUTHOR: justdoiting
-# REPO: https://github.com/justdoiting/emby-rules
 # UPDATED: 2025-06-06 09:18:50
 # DOMAIN: 3
 # DOMAIN-KEYWORD: 3
@@ -60,4 +59,3 @@ DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
 DOMAIN,signup.yue.to
 DOMAIN,emby.yue.to
-PROCESS-NAME,com.mb.android
